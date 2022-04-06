@@ -1,0 +1,4 @@
+include chainsaw/schema.sql
+graft chainsaw/static
+graft chainsaw/templates
+global-exclude *.pyc
